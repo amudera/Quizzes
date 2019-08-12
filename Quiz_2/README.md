@@ -9,9 +9,9 @@
 whose default value is 0. An integer instance property called `number` is set 
 to equal `start`
 
-* It has a (normal, not class) method called `next` that takes no arguments.
+* It has a (normal, not class) 
+This method increases number by 1 and then returns a string of that number'smethod called `next` that takes no arguments.
 
-This method increases number by 1 and then returns a string of that number's
 fizzbuzz value.
 
 Fizzbuzz value of n = "fizz" if n is evenly divisible by 3, "buzz" if n is
